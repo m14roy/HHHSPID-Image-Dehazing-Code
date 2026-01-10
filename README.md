@@ -13,6 +13,9 @@ img - Input Hazy Image
 Outputs:
 
 dehazedimg - Dehazed Image
+
 flag - Flag to notify if the Iamge is non-cast or cast. 
+
 flag = 1 - Cast, 
+
 flag = 0 - Non-Cast
